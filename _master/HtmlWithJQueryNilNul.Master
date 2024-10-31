@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"  %>
+
+<%@ Register Assembly="nilnul.web._js_.WEB._CTR_" Namespace="nilnul.web._js_.WEB._CTR_" TagPrefix="cc3" %>
+
+
+
+
+<%@ Register assembly="nilnul.web._js_.WEB._CTR_" namespace="nilnul.web.script.webctrl" tagprefix="cc1" %>
+
+
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+	<cc3:JqueryNilnul ID="JqueryNilnul1" runat="server"></cc3:JqueryNilnul>
+</head>
+<body>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+</body>
+</html>

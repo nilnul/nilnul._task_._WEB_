@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="nilnul.task._web.svc.Task" CodeBehind="Task.svc.cs" Factory="System.ServiceModel.Activation.WebScriptServiceHostFactory" %>

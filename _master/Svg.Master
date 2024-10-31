@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" %>
+
+<%@ Register Assembly="nilnul.web._js_.WEB._CTR_" Namespace="nilnul.web._js_.WEB._CTR_" TagPrefix="cc1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+	<title></title>
+	
+	<cc1:JqueryNilnul ID="JqueryNilnul1" runat="server"></cc1:JqueryNilnul>
+</head>
+<body onclick="body_click();" runat="server" id="body">
+
+
+	<svg
+		id="<%=ClientID %>"
+		<%--	style="width: 500px; height: 500px; background: grey;"--%>
+		<%--	style="width: 100%; height: 100%; "--%>
+		<%--		 width="500px" 
+		height="500px"--%>
+		width="100%"
+		height="100%"
+		viewBox="0 0 1000 1000"
+		stroke="red"
+		stroke-width="5"
+
+		style="width:100%;height:100%; background:grey;"
+
+
+	>
+
+		<rect width="100%" height="100%" style="stroke: #bbbbbb; fill: #cccccc">
+		</rect>
+		<asp:ContentPlaceHolder runat="server" ID="content">
+
+		</asp:ContentPlaceHolder>
+	</svg>
+</body>
+	<script>
+		var body_click = function (
+
+
+		) {
+
+		};
+
+
+	</script>
+</html>
