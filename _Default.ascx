@@ -1,2 +1,2 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" %>
-<a href="<%=ResolveUrl("prj") %>" >demo/P.aspx</a>
+<a href="<%=ResolveUrl("prj") %>" >prj</a>
