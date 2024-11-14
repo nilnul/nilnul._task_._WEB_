@@ -15,11 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "333.ref", "333.ref", "{5688
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "666.dll", "666.dll", "{60D39638-848C-4207-9A0F-49557EBE0AAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._task_._LIB_", "..\_LIB_(Git\nilnul._task_._LIB_.csproj", "{6A659E43-DB3A-43E7-B071-697B6FA07975}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._task_._LIB_", "..\_LIB_\nilnul._task_._LIB_.csproj", "{6A659E43-DB3A-43E7-B071-697B6FA07975}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._task_._WEB_", "nilnul._task_._WEB_.csproj", "{E0BFA89E-2F96-4228-BFA9-AC16C44AF703}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._task_._LINQ_", "..\_LINQ_(Git\nilnul._task_._LINQ_.csproj", "{9CA81D3C-F974-4745-84B4-784AD631F649}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._task_._LINQ_", "..\_LINQ_\nilnul._task_._LINQ_.csproj", "{9CA81D3C-F974-4745-84B4-784AD631F649}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
