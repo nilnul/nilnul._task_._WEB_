@@ -111,10 +111,10 @@
       <HintPath>..\..\.deps\Newtonsoft.Json.Bson.1.0.3\lib\net45\Newtonsoft.Json.Bson.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.collection_._discrete_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\.deps\nilnul.collection_._discrete_._LIB_.1.1.241110.45206\lib\net48\nilnul.collection_._discrete_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul.collection_._discrete_._LIB_.1.1.241119.144839\lib\net48\nilnul.collection_._discrete_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.geometry._planar_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\.deps\nilnul.geometry._planar_._LIB_.1.1.241114.131055\lib\net48\nilnul.geometry._planar_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul.geometry._planar_._LIB_.1.1.241118.103136\lib\net48\nilnul.geometry._planar_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.lang_._cognom_._LIB_, Version=2.0.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
       <HintPath>packages\nilnul.lang_._cognom_._LIB_.2.0.240820.191858\lib\net48\nilnul.lang_._cognom_._LIB_.dll</HintPath>
@@ -132,7 +132,7 @@
       <HintPath>packages\nilnul.num.real._func_._LIB_.1.1.240820.161945\lib\net48\nilnul.num.real._func_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.num.real._matrix_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\.deps\nilnul.num.real._matrix_._LIB_.1.1.241114.81559\lib\net48\nilnul.num.real._matrix_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul.num.real._matrix_._LIB_.1.1.241119.144308\lib\net48\nilnul.num.real._matrix_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.num.real._stream_._LIB_, Version=1.0.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
       <HintPath>..\..\.deps\nilnul.num.real._stream_._LIB_.1.0.241114.144946\lib\net48\nilnul.num.real._stream_._LIB_.dll</HintPath>
@@ -144,10 +144,10 @@
       <HintPath>..\..\.deps\nilnul.num._integer_._LIB_.1.1.241104.100014\lib\net48\nilnul.num._integer_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.num._quotient_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>packages\nilnul.num._quotient_._LIB_.1.1.240820.181307\lib\net48\nilnul.num._quotient_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul.num._quotient_._LIB_.1.1.241119.142713\lib\net48\nilnul.num._quotient_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.num._real_._LIB_, Version=2.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\.deps\nilnul.num._real_._LIB_.2.1.241114.121906\lib\net48\nilnul.num._real_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul.num._real_._LIB_.2.1.241119.143308\lib\net48\nilnul.num._real_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul.web._css_._LIB_, Version=1.1.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
       <HintPath>packages\nilnul.web._css_._LIB_.1.1.240918.154044\lib\net48\nilnul.web._css_._LIB_.dll</HintPath>
@@ -174,7 +174,7 @@
       <HintPath>..\..\.deps\nilnul._character_._LIB_.2.1.241109.121956\lib\net48\nilnul._character_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._collection_._LIB__, Version=1.0.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\.deps\nilnul._collection_._LIB__.1.0.241114.150555\lib\net48\nilnul._collection_._LIB__.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._collection_._LIB__.1.0.241119.134603\lib\net48\nilnul._collection_._LIB__.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._fs_._LIB_, Version=2.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
       <HintPath>..\..\.deps\nilnul._fs_._LIB_.2.1.241112.70302\lib\net48\nilnul._fs_._LIB_.dll</HintPath>
@@ -183,7 +183,7 @@
       <HintPath>..\..\.deps\nilnul._geometry_._LIB_.1.0.241114.121900\lib\net48\nilnul._geometry_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._lang_._LIB_, Version=1.1.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\.deps\nilnul._lang_._LIB_.1.1.241113.13844\lib\net48\nilnul._lang_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._lang_._LIB_.1.1.241120.42953\lib\net48\nilnul._lang_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._ling_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
       <HintPath>packages\nilnul._ling_._LIB_.1.1.241029.131927\lib\net48\nilnul._ling_._LIB_.dll</HintPath>
@@ -198,25 +198,28 @@
       <HintPath>..\..\.deps\nilnul._num_._LINQ_.1.1.241104.93627\lib\net48\nilnul._num_._LINQ_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._obj_._LIB_, Version=1.2.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\.deps\nilnul._obj_._LIB_.1.2.241114.104750\lib\net48\nilnul._obj_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._obj_._LIB_.1.2.241121.92704\lib\net48\nilnul._obj_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._os_._LIB4FX_, Version=1.0.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
       <HintPath>packages\nilnul._os_._LIB4FX_.1.0.241001.153554\lib\net48\nilnul._os_._LIB4FX_.dll</HintPath>
     </Reference>
+    <Reference Include="nilnul._relation_._LIB_, Version=1.0.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
+      <HintPath>..\..\.deps\nilnul._relation_._LIB_.1.0.241120.113237\lib\net48\nilnul._relation_._LIB_.dll</HintPath>
+    </Reference>
     <Reference Include="nilnul._rel_._LIB_, Version=1.2.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\.deps\nilnul._rel_._LIB_.1.2.241111.131420\lib\net48\nilnul._rel_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._rel_._LIB_.1.2.241121.122118\lib\net48\nilnul._rel_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._set_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
       <HintPath>packages\nilnul._set_._LIB_.1.1.240831.105511\lib\net48\nilnul._set_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._stat_._LIB_, Version=1.1.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>packages\nilnul._stat_._LIB_.1.1.241019.130036\lib\net48\nilnul._stat_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._stat_._LIB_.1.1.241115.110034\lib\net48\nilnul._stat_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._time_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\.deps\nilnul._time_._LIB_.1.1.241114.104154\lib\net48\nilnul._time_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._time_._LIB_.1.1.241120.113832\lib\net48\nilnul._time_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._txt_._LIB_, Version=1.1.0.1, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
-      <HintPath>..\..\.deps\nilnul._txt_._LIB_.1.1.241111.31701\lib\net48\nilnul._txt_._LIB_.dll</HintPath>
+      <HintPath>..\..\.deps\nilnul._txt_._LIB_.1.1.241121.40227\lib\net48\nilnul._txt_._LIB_.dll</HintPath>
     </Reference>
     <Reference Include="nilnul._web_._CTR_, Version=1.1.0.0, Culture=neutral, PublicKeyToken=085f320e4a727230, processorArchitecture=MSIL">
       <HintPath>packages\nilnul._web_._CTR_.1.1.241010.121150\lib\net48\nilnul._web_._CTR_.dll</HintPath>

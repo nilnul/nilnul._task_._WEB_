@@ -1,4 +1,4 @@
-﻿using nilnul.math.calculus;
+using nilnul.math.calculus;
 using nilnul.num.quotient_.denomNonnil;
 using System;
 using System.Collections.Generic;
@@ -19,7 +19,7 @@ namespace nilnul._task_._WEB_.prj.duration.cpf
 			context.Response.ContentType = nilnul.web.mime.Mime.Instances.ApplicationJson;
 			var jsonizer = new System.Web.Script.Serialization.JavaScriptSerializer();
 
-			var sim = new nilnul.task.prj.survey_.Simulate(nilnul.task.prj.survey_.simulate_.Demo.proj/*.._demo.Project_DemoInstance.proj*/);
+			var sim = new nilnul.task.prj.survey_.Simulate(nilnul.task.prj.survey_.simulate_.eg_.Demo.proj/*.._demo.Project_DemoInstance.proj*/);
 			//var cdf = sim.getCdf();
 
 			var pmf = sim.getPmf();

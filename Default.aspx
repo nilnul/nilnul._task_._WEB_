@@ -7,9 +7,9 @@
 
 <script runat="server">
 	protected void Page_Load(object sender, EventArgs args) {
-		Response.Redirect(
-			"~/prj"
-		);
+		//Response.Redirect(
+		//	"~/prj"
+		//);
 	}
 
 </script>
